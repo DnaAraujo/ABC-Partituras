@@ -1,0 +1,73 @@
+%abc-2.2
+%%pagewidth 8.5in
+%%pageheight 11in
+%%leftmargin .5in
+%%rightmargin .5in
+%%topmargin .5in
+%%botmargin .5in
+%printmargin .5in
+%pagescale 1.15
+%
+%%titlefont Times-Bold utf-8 24
+%%composerfont Times-Roman utf-8 14
+%%vocalfont Times-Roman utf-8 14
+%%gchordfont Helvetica utf-8 12
+%%textfont Times-Roman utf-8 14
+%%wordsfont Times-Roman utf-8 14
+%%annotationfont Times-Bold utf-8 14
+%
+%%topspace 0
+%%titlespace 0
+%%composerspace 18
+%%staffsep 72
+%%wordsspace 36
+%
+%%stretchlast 1.0
+%
+% format end
+%
+%%transpose 0
+%
+X:1
+T:All for Our Rightful King
+M:4/4
+L:1/8
+K:G
+%
+%
+z2 z4 dc | "G" B2 AB G2 dc | B2 AB2<G2d | "C" e2 e3/2G/2 e2 dB | 
+w: It_ was all_ for our_ right-ful_ king. We left fair_ Scot-land's_
+%
+"D" d6 e2 | "G" d3/2e <ga/2 b2 b2 | "D" a3/2g <ab/2 d2 g3/2a/2 | 
+w: stand. It was_ all_ for our right_ful_ king we_
+%
+"Em" b2 B2 "Am" cB AG | "G" B3d "C" c2 ga | "Em" b2 B2 "Am" c3/2B "D" <AB/2 | "G" G6 z2 |]
+w: 'er saw I_rish_ land, my dear, we_ 'er saw I_rish_ land.
+%%
+%%leftmargin 2.0in
+%%rightmargin 2.0in
+%
+W: 2. Now a' is done that men can do,
+W: And a' is done in vain;
+W: My love, my native land, farewell,
+W: For I maun cross the main, my dear,
+W: For I maun cross the main.
+W: 
+W: 3. He turned him right, an'round about,
+W: Upon the Irish shore,
+W: An' ga'e his bridle-reins a shake,
+W: With, Adieu, for evermore, my dear,
+W: Adieu, for evermore.
+W: 
+W: 4. The sodger frae the wars returns,
+W: The sailor frae the main;
+W: But I ha'e parted frae my love,
+W: Never to meet again, my dear,
+W: Never to meet again.
+W: 
+W: 5. When day is gone, an' night is come,
+W: An' a' folk bound to sleep;
+W: I think on him that's far awa',
+W: The lee-lang night, and weep, my dear
+W: The lee-lang night, and weep.
+%

@@ -1,0 +1,28 @@
+%%pagewidth 40cm %define a largura da pagina
+%%bgcolor white
+%%topspace 1
+%%composerspace 0
+%leftmargin 3cm
+%rightmargin 2cm
+%%topmargin 2cm
+%%bottommargin 2cm
+%%equalbars 1
+%%notespacingfactor 2
+%%stretchstaff 1
+%%measurenb 0  
+%%contbarnb 1 
+X:1
+T: molt me mervoil - Original
+C:Guiot de Provins
+M:6/4
+L:1/2
+Q:1/2=140
+K:C
+c3/c e/ | (g f/)e/(d/c/) | (f e/)(d/c/)d/4c/4 | c_B/z3/ |
+(dc/)(_B/4A/4G/)A/ |F3/GA/ | (=BA/)Ac/ | c3/ z3/ | 
+_B3/(A//G//F/)G//A// | c3/dc/ | (fe/)(d/c/)d//c// | (c_B/)z3/ | 
+d3/(e//f//e/)g/ | (ed/)dc/ | (=BA/)Ac/ | c3/z3/ |
+g3/ag/ | f3/ge/ | (fe/)(d/c/)d/ | c3/z3/ | 
+d3/c_B/ | A3/c_B/ | A3/(G/A/)=B//A// | G3/ z3/ | 
+B3/ (A/G/)G//A// | c3/dc/ | (f e/)(d/c/)d/4c/4 | c/_B/c/ z3/ |
+(dc/)(_B/4A/4G/)A/ |F3/GA/ | (=BA/)Ac/ | c3/ z3/ |]
