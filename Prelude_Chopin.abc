@@ -1,0 +1,20 @@
+: 1
+T: Prelude - Op. 28, No. 7
+C: Fryderyk Chopin
+L: 1/4
+M: 3/4
+Q: "Andantino"
+%%score (V1 V2) | V3
+V: V1 clef=treble
+V: V2 clef=treble
+V: V3 clef=bass
+K: Amaj
+%
+% 1 - 2
+[V:V1] (!p!E | "_dolce"c/>d/ [DGB] [DGB] | [DGB]2) ([df] |
+[V:V2] x | x3 | x3 |
+[V:V3] z | "_con pedale"E,, [E,E] [E,E] | [E,E]2 z |
+% 3 - 4
+[V:V1] [^B/^d/]>[c/e/] [ca] [ca] | [ca]2) ([Ec] | % slur not ended!
+[V:V2] x3 | x3 |
+[V:V3] A, [A,E] [A,E] | [A,E]2 z |

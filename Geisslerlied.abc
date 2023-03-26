@@ -3,11 +3,9 @@ T:Geisslerlied
 C: .
 L:1/4
 M:C
-K: F
-FcBA|FAcc|AcBA|BA/G/FF|$
-DFGA|FG/A/BA|AcBA|BA/G/FF|$
-FcBA|FAcc|AcBA|BA/G/FF|$
-DFGA|FG/A/BA|AcBA|BA/G/FF|$
-FG/A/BA$|FG/A/BA$|AcBA|BA/G/FF|$
-FG/A/BA$|FG/A/BA$|AcBA|BA/G/FF|$
-Z: Daniel Araujo - Évora - Abril/2022
+K:F
+Q:1/4=72
+I:linebreak $
+V:1 
+!pp!!<(!DFGA|FG/A/BA!<)!|!ff!!>(!AcBA|BA/G/FF!>)!!pp!|$
+w: !pp! !<(! DFGA|FG/A/BA !<)!| !ff! !>(! AcBA|BA/G/FF !>)! !pp!|$
